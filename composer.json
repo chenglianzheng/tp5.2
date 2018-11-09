@@ -1,0 +1,23 @@
+{
+    "name": "chenglianzheng/tp52",
+    "description": "我的tp5.2小李子",
+    "type": "project",
+    "keywords": [
+        "chenglianzheng"
+    ],
+    "homepage": "http://eeliying.com/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "chenglianzheng",
+            "email": "1054082929@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "chenglianzheng/tp52": "5.*"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
