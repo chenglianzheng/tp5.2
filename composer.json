@@ -15,7 +15,6 @@
     ],
     "require": {
         "php": ">=5.6.0",
-        "chenglianzheng/tp52": "5.*"
     },
     "config": {
         "preferred-install": "dist"
